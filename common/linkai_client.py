@@ -108,3 +108,6 @@ def _build_config():
     if plugin_config.get("Godcmd"):
         config["admin_password"] = plugin_config.get("Godcmd").get("password")
     return config
+local_conf.get("speech_recognition") else
+
+"N
